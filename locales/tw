@@ -1,0 +1,16 @@
+Locales['tw'] = {
+	['shop_robbery'] = '商店搶劫',
+	['press_to_rob'] = 'press ~INPUT_CONTEXT~ to ~o~rob~s~ ~b~%s~s~',
+	['robbery_timer'] = '商店搶劫: ~r~%s~s~倒數',
+	['recently_robbed'] = '這家店最近被搶劫了。 請稍等 ~y~%s~s~ 秒，直到你再次搶劫',
+	['rob_in_prog'] = '~r~搶劫正在進行 ~b~%s~s~',
+	['started_to_rob'] = '你開始搶劫 ~y~%s~s~',
+	['alarm_triggered'] = '警鈴已響',
+	['robbery_complete'] = '~r~搶劫成功~s~, 你已~o~偷了~s~ ~g~$%s~s~',
+	['robbery_complete_at'] = '~r~搶劫成功 ~y~%s~s~',
+	['robbery_cancelled'] = '搶劫已取消!',
+	['robbery_cancelled_at'] = '~r~搶劫 ~b~%s~s~ 已被取消!',
+	['min_police'] = '必須至少有 ~b~%s警察~s~ 在線',
+	['robbery_already'] = '~r~搶劫已在進行中',
+	['no_threat'] = '你並不會對商店造成威脅',
+}
